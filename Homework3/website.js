@@ -17,9 +17,9 @@
         </nav>
     </div>
         <ul>
-            <li class="purple_italic_font">Michael Ouatu</li>
-            <li><a class="purple_italic_font" href= "mailto:mouatu@villanova.edu">Email</a></li>
-            <li><a class="purple_italic_font" href = "http:www.villanova.edu">Villanova University</a></li>
+            <li class="purple_italic_font">Michael</li>
+            <li><a class="purple_italic_font" href= "mailto:default@yahoo.com">Email</a></li>
+            <li><a class="purple_italic_font" href = "http:www.university.edu">University</a></li>
         </ul>
         <p id="green_font">Learning Web Development and Advancing My Skills</p>
     </div>
