@@ -17,7 +17,7 @@
         </nav>
     </div>
         <ul>
-            <li class="purple_italic_font">Michael</li>
+            <li class="purple_italic_font">Micha</li>
             <li><a class="purple_italic_font" href= "mailto:default@yahoo.com">Email</a></li>
             <li><a class="purple_italic_font" href = "http:www.university.edu">University</a></li>
         </ul>
